@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clips.skinlibre.com/sitemap.xml
